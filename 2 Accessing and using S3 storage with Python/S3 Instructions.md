@@ -1,10 +1,12 @@
 # The CLOUD
 ![cloud](https://github.com/ElocF/GSS-LUPI-2024-Hackathon/tree/main/media/THECLOUD.png)
+<img src="https://github.com/ElocF/GSS-LUPI-2024-Hackathon/tree/main/media/THECLOUD.png" class="img-responsive" alt=""> </div>
+
 <br>
 Now its time to do a bit of coding, there is a python package called [**boto3**](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html), this package was devleoped by amazon to access their proprietary S3 cloud storage through Python. **Boto3 is not aviable in the general Python install included with ArcPro** 
 <br>
 <br>
-If you are on the GTS in order to use this package you need to switch your python envrionment to a clone, I made a specific clone for this hackathon so we can mess around with it, I will post the path to it in the chat. Your Python envrionment must changed within arcpro for it to take effect elsewhere, [Activate an environment](https://pro.arcgis.com/en/pro-app/latest/arcpy/get-started/activate-an-environment.htm)
+If you are on the GTS in order to use this package you need to switch your python envrionment to a clone, I made a specific clone for this hackathon so we can mess around with it, I will post the path to it in the chat. Your Python envrionment must changed within arcpro for it to take effect elsewhere, [Activate an environment]!![cloud](https://pro.arcgis.com/en/pro-app/latest/arcpy/get-started/activate-an-environment.htm)
 <br>
 <br>
 <br>
@@ -15,6 +17,7 @@ Hopefully you have notied there is another file in here called constants.py. Thi
 <br>
 <br>
 ![here's gitignore](media/cJk23n.gif)
+<br>
 In github you can set up a ".gitignore" file, its in the main directory of the repo, this file tells github what to not show, since the keys to the bucket need to be kept a secret I have made github ignore the .env file. I will post the file in the chat, you can download it and put it in your fork in the same folder as the constants.py and it should work!
 
 ooof glad that's over...Take a look at the S3_tool notebook included in this folder, it has a few ways of interacting with S3 but there are plenty more [avaible](https://boto3.amazonaws.com/v1/documentation/api/latest/guide/s3-examples.html)
