@@ -1,12 +1,12 @@
-# The CLOUD
 ![cloud](https://github.com/ElocF/GSS-LUPI-2024-Hackathon/blob/main/media/THECLOUD.png?raw=true)
 
 
 <br>
-Now its time to do a bit of coding, there is a python package called [**boto3**](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html), this package was devleoped by amazon to access their proprietary S3 cloud storage through Python. **Boto3 is not aviable in the general Python install included with ArcPro** 
+Now its time to do a bit of coding, there is a python package called [boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html), this package was devleoped by amazon to access their proprietary S3 cloud storage through Python. **Boto3 is not aviable in the general Python install included with ArcPro** 
 <br>
 <br>
 If you are on the GTS in order to use this package you need to switch your python envrionment to a clone, I made a specific clone for this hackathon so we can mess around with it, I will post the path to it in the chat. Your Python envrionment must changed within arcpro for it to take effect elsewhere, 
+<br>
 ![gitignore](https://github.com/ElocF/GSS-LUPI-2024-Hackathon/blob/main/media/cJk23n.gif?raw=true)
 <br>
 <br>
