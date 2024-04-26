@@ -1,5 +1,5 @@
 # The CLOUD
-![cloud](https://github.com/ElocF/GSS-LUPI-2024-Hackathon/tree/main/media/THECLOUD.png)
+![cloud](media/THECLOUD.png)
 <br>
 Now its time to do a bit of coding, there is a python package called [**boto3**](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html), this package was devleoped by amazon to access their proprietary S3 cloud storage through Python. **Boto3 is not aviable in the general Python install included with ArcPro** 
 <br>
