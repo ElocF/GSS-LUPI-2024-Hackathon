@@ -1,5 +1,5 @@
 # GSS-LUPI-2024-Hackathon
-
+![space vs dogs](https://github.com/ElocF/GSS-LUPI-2024-Hackathon/blob/main/media/meme.jpg?raw=true)
 # Welcome to the 2024 GSS LUPI Hackathon
 This hackathon will be broken down into four parts
 1. Getting familiar with Git and GitHub
