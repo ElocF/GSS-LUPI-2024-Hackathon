@@ -13,7 +13,7 @@ better than my useless ramblings lets start off with a quick tutorial produced b
 - Search for repos owned by organization bcgov?   
 <br>
 
-## Optional but handy and highly encouraged 
+## **Optional** but handy and highly encouraged 
 If you work in VS code a lot you may want to look into getting all of the GitHub extension loaded up, **heck** I'm writing this from VS right now!
 [Using GitHub in VS Code (GTS)](https://github.com/bcgov/gis-pantry/blob/master/_start-here/how-to/GitHub_in_VSCode.md)
 <br>
