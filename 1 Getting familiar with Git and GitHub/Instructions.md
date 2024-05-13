@@ -47,7 +47,7 @@ Although GitHub is all about collaboration and sharing, sometimes you just can't
 Now that you are a contributor to this repo, use the main branch to answer the questions in the markdown doc answer_me_these_questions_three.md
 <br>
 
-# THE END
+
 ## Final thoughts
 > There is so much to learn about Git and Github this is supposed to be quick to get some of the basics in,
 > throughout the rest of this hackathon we will be using github so buckle up!
@@ -56,3 +56,4 @@ Now that you are a contributor to this repo, use the main branch to answer the q
 >>- do we want to put up all of our hackathon material into this repo or another similar one? for reference, practice or whatever
 >>- do we want to have a GSS-LUP team under the bcgov organization?
 
+# THE END
