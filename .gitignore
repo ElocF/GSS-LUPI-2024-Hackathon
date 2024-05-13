@@ -1,6 +1,6 @@
 # Prerequisites
 *.d
-loadfiles_cf.py
+
 
 # Compiled Object files
 *.slo
@@ -8,27 +8,27 @@ loadfiles_cf.py
 *.o
 *.obj
 *.env
-loadfiles_cf.py
+
 
 # Precompiled Headers
 *.gch
 *.pch
-loadfiles_cf.py
+
 # Compiled Dynamic libraries
 *.so
 *.dylib
 *.dll
-loadfiles_cf.py
+
 # Fortran module files
 *.mod
 *.smod
-loadfiles_cf.py
+
 # Compiled Static libraries
 *.lai
 *.la
 *.a
 *.lib
-loadfiles_cf.py
+
 # Executables
 *.exe
 *.out
