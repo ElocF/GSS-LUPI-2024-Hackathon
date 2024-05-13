@@ -40,7 +40,7 @@ I did not spell check this document and I make tons of mistakes, flag an issue i
 <br>
 
 ## File Paths, Sensative info and Secrets 
-Although GitHub is all about collaboration and sharing, sometimes you just can't for a number reason; sensative data, UNC paths, passwords, or whatever. that's why (.gitignore exists)[https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files], take a look at the .gitignore file in the main repo! what kind of secrets am I hiding from you??? ask me to add you as a contributor to this repo try adding a file to be ignored in the repo? (not sure how this will work outside of vs code or the desktop app) 
+Although GitHub is all about collaboration and sharing, sometimes you just can't for a number reason; sensative data, UNC paths, passwords, or whatever. that's why (.gitignore exists)[https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files], take a look at the .gitignore file in the main repo! what kind of secrets am I hiding from you??? If you are not already a contributor ask me to add you as a contributor to this repo try adding a file to be ignored in the repo? (not sure how this will work outside of vs code or the desktop app) 
 <br>
 
 ## Main Branch 
