@@ -1,4 +1,10 @@
-# Get Hands On
+# Hello World 
+better than my useless ramblings lets start off with a quick tutorial produced by none other than GitHub
+https://docs.github.com/en/get-started/start-your-journey/hello-world
+
+
+
+# Get Hands On with this repo 
 
 There are lots of ways to contribute to a GitHub repo; cloning, forking, branching and marking issues are the some of the more common ones. take a quick read here [The difference between forking and cloning a repository on GitHub](https://github.com/orgs/community/discussions/35849), [Branches](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches), [Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)
 <br>
@@ -18,6 +24,10 @@ To touch on git really quickly, its a version control system, it tracks every ch
 
 ## We've Got Issues 
 I did not spell check this document and I make tons of mistakes, flag an issue in here, from the main repo page. although spelling mistakes do get found all the time in repos, its generally less of an isssue, usually issues are code based when something is not working or there are unexplected errors
+
+
+## make your own repo
+
 
 ### Optional
 If you work in VS code a lot you may want to look into getting all of the GitHub extension loaded up, **heck** I'm writing this from VS right now!
