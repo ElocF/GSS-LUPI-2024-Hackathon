@@ -2,7 +2,7 @@
 
 
 ## Hello World 
-better than my useless ramblings lets start off with a quick tutorial produced by none other than GitHub, feel free to make a repo that is acutally usful to you
+better than my useless ramblings lets start off with a quick tutorial produced by none other than GitHub, feel free to make a repo that is acutally useful to you
 <>
 [Hello World Tutorial](https://docs.github.com/en/get-started/start-your-journey/hello-world)
 <br>
